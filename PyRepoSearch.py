@@ -6,12 +6,12 @@ import subprocess
 # Pide al usuario el nombre de la carpeta a buscar
 folder_name = input("Introduce el nombre de la carpeta a buscar: ")
 
-# Especifica los repositorios de red
-repo1 = r"\\ip repositorio\prueba"
-repo2 = "ip ftp"
-ftp_folder = "/carpeta ftp/prueba/"
-repo3 = r"\\ip repositorio\prueba2"
-repo4 = r"\\ip repositorio\prueba3"
+# Pide al usuario los directorios donde buscar
+repo1 = input("Introduce el primer directorio donde buscar: ")
+repo2 = input("Introduce la dirección IP del servidor FTP donde buscar: ")
+ftp_folder = input("Introduce la carpeta del servidor FTP donde buscar: ")
+repo3 = input("Introduce el tercer directorio donde buscar: ")
+repo4 = input("Introduce el cuarto directorio donde buscar: ")
 
 
 # Establece el tiempo máximo de búsqueda en cada repositorio (en segundos)
