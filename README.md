@@ -20,11 +20,9 @@ Para ejecutar PyRepoSearch, necesitas tener instalado Python 3.6 o superior y la
 
 Puedes instalarlas usando el comando `pip install -r requirements.txt`.
 
-Una vez descargado, edita el script en el comentario "Especifica los repositorios de red" y especifica los repositorios que quieras utilizar.
-
 ## Uso
 
-Para iniciar PyRepoSearch, ejecuta el archivo `pyreposearch.py` desde la terminal o desde tu IDE preferido. Aparecerá una ventana donde podrás introducir el nombre de la carpeta a buscar. Después de pulsar la tecla "Enter", se iniciará la búsqueda en los repositorios especificados. Se mostrarán las carpetas encontradas o los mensajes de error en caso de que haya algún problema. También podrás acceder a las carpetas encontradas o copiar sus enlaces usando los comandos que se indican. Para salir del programa, presiona cualquier tecla.
+Para iniciar PyRepoSearch, ejecuta el archivo `pyreposearch.py` desde la terminal o desde tu IDE preferido. Aparecerá una ventana donde podrás introducir el nombre de la carpeta a buscar. Una vez puesto, especifica los repositorios donde quieres buscar. Después de pulsar la tecla "Enter", se iniciará la búsqueda en los repositorios especificados. Se mostrarán las carpetas encontradas o los mensajes de error en caso de que haya algún problema. También podrás acceder a las carpetas encontradas o copiar sus enlaces usando los comandos que se indican. Para salir del programa, presiona cualquier tecla.
 
 ## Licencia
 
