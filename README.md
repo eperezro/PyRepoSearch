@@ -26,12 +26,12 @@ Para iniciar PyRepoSearch, ejecuta el archivo `pyreposearch.py` desde la termina
 
 ## Licencia
 
-PyRepoSearch está licenciado bajo la [Licencia MIT], lo que significa que puedes usarlo, modificarlo y distribuirlo libremente, siempre que incluyas el archivo `LICENSE.txt` original y una nota de atribución.
+PyRepoSearch está licenciado bajo la Licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente, siempre que incluyas el archivo `LICENSE.txt` original y una nota de atribución.
 
 ## Contribuciones
 
 Si quieres contribuir al desarrollo de PyRepoSearch, puedes hacerlo de varias formas:
 
-- Reportando errores o sugerencias a través de la sección de [Issues] del repositorio.
-- Enviando tus propios cambios o mejoras mediante [Pull Requests].
+- Reportando errores o sugerencias a través de la sección de Issues del repositorio.
+- Enviando tus propios cambios o mejoras mediante Pull Requests.
 - Ayudando a mejorar la eficiencia o la compatibilidad del código con otros tipos de repositorios.
